@@ -38,7 +38,3 @@ TTS helps to synthesize audio-speech from text. Eventhough lots of previous TTS 
 * [Rasa](https://rasa.com/)
   * Rasa does not have ASR support directly, but connecting with an external ASR engine is possible.
 * [Xenioo](https://www.xenioo.com/en/)
-
-##### Language support:
-
-##### Automatic Speech recognition(ASR) support:
