@@ -11,6 +11,8 @@ HMM ASR:
 
 DL ASR:
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+* [Coqui STT](https://github.com/coqui-ai/STT)
+* [SpeechBrain](https://github.com/speechbrain/speechbrain)
 * [ESPnet](https://github.com/espnet/espnet)
 
 Commercial ASR (Cloud based solutions):
@@ -22,6 +24,7 @@ Commercial ASR (Cloud based solutions):
 
 TTS helps to synthesize audio-speech from text. Eventhough lots of previous TTS systems sound robotic, recent developments in TTS lead to human-like speeches.
 
+* [Coqui TTS](https://github.com/coqui-ai/tts)
 * [wavenet](https://github.com/ibab/tensorflow-wavenet)
 * [Tacotron](https://github.com/keithito/tacotron)
 * [Deepvoice](https://github.com/r9y9/deepvoice3_pytorch)
@@ -33,6 +36,7 @@ TTS helps to synthesize audio-speech from text. Eventhough lots of previous TTS 
 * [Amazon Lex](https://aws.amazon.com/lex/)
   * Amazon lex is restricted to English language.
 * [IBM Watson](https://www.ibm.com/watson)
+* [NVIDIA NeMo](https://github.com/NVIDIA/NeMo)
 * [Wit](https://wit.ai/)
 * [Microsoft LUIS](https://www.luis.ai/)
 * [Rasa](https://rasa.com/)
